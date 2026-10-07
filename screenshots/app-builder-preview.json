@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Zalúria",
+      "hasCanvas": false,
+      "bodyTextLen": 297,
+      "bodyTextHash": "ff8605e2fcc32f6a4a8086e6a9e5f51770247b270b0a44002a90d1da95150c24",
+      "bodyTextPrefix": "FEDERAÇÃO PRAGMÁTICA Zalúria Você não está louco. Você desenhou ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Zalúria",
+      "hasCanvas": false,
+      "bodyTextLen": 297,
+      "bodyTextHash": "ff8605e2fcc32f6a4a8086e6a9e5f51770247b270b0a44002a90d1da95150c24",
+      "bodyTextPrefix": "FEDERAÇÃO PRAGMÁTICA Zalúria Você não está louco. Você desenhou ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
